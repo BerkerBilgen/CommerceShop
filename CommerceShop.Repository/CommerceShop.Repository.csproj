@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommerceShop.Common\CommerceShop.Common.csproj" />
+    <ProjectReference Include="..\CommerceShop.Data\CommerceShop.Data.csproj" />
+  </ItemGroup>
+
+</Project>
